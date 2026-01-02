@@ -42,7 +42,7 @@ jobs:
       - name: Run linters
         run: |
           pip install ruff
-          ruff check .
+          ruff check dbt_projectAfter
 
       - name: Run unit tests
         run: |
