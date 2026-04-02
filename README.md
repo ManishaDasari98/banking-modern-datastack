@@ -137,8 +137,3 @@ banking-modern-datastack/
 - **Synthetic banking dataset** for demos  
 - **CI/CD workflows** ensuring reliability  
 
----
-
-**Author**: *Jaya Chandra Kadiveti*  
-**LinkedIn**: [jayachandrakadiveti](https://www.linkedin.com/in/jayachandrakadiveti/)  
-**Contact**: [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)  
